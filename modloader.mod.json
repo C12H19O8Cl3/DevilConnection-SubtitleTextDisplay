@@ -18,7 +18,7 @@
       "name": "菜单逻辑",
       "path": "hook.js"
     }
-  ]
+  ],
   "update": {
     "source": "github",
     "repo": "C12H19O8Cl3/DevilConnection-SubtitleTextDisplay"
